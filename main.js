@@ -16,7 +16,7 @@ const zepas = new VectorLayer({
 
 const revervasBiosfera = new VectorLayer({
   source: new VectorSource({
-    url: 'assets/Reservas de la Biosfera.kml',
+    url: 'assets/reservas-biosfera.kml',
     format: new KML(),
   }),
 });
